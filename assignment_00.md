@@ -15,7 +15,7 @@ Create a program `hello.py` that prints
 
 Create
 1. a directory `planets` 
-2. a directort `iceplanets` inside `planets`
+2. a directory `iceplanets` inside `planets`
 3. a file `hoth.txt` inside `planets` with content
 
         Hoth is a boring, icy world.
