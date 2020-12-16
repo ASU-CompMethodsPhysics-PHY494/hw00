@@ -18,14 +18,14 @@ The workflow for submitting homeworks in this class will be
 2. In the shell on your computer, **clone the repository to your own
    computer**, using the specific repository name:
 
-      git clone  https://github.com/ASU-CompMethodsPhysics-PHY494/hw00-yourname.git
+        git clone  https://github.com/ASU-CompMethodsPhysics-PHY494/hw00-yourname.git
 	  
    This creates a directory `hw00-yourname` on your computer. This is
    your *local repository*.
 
 3. **Navigate to the local repository**
 
-      cd hw00-yourname
+        cd hw00-yourname
 
 4. **Solve the homework**: read the instructions in the assignment
    file and do what you need to do, e.g., add code, create files and
@@ -33,17 +33,17 @@ The workflow for submitting homeworks in this class will be
    
 5. **Add your changes** (can be done as often as you like):
 
-      git add -A .
+        git add -A .
 	  
 6. **Commit your changes** (can be done as often as you like):
 
-      git commit -m "update homework"
+        git commit -m "update homework"
 	  
    (You can write any message instead of "update homework".)
    
 7. **Push your changes** to GitHub (can be done as often as you like):
 
-      git push
+        git push
 
    This will synchronize your repository in the cloud on GitHub with
    your local repository. When you push the changes, you **submit your

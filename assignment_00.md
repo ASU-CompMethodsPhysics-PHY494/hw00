@@ -7,9 +7,9 @@ to learn the workflow.
 ## Problem 1: Hello World
 
 Create a program `hello.py` that prints 
-```
-Hello World!
-```
+
+    Hello World!
+
 
 ## Problem 2: Directories and Files
 
@@ -18,8 +18,8 @@ Create
 2. a directort `iceplanets` inside `planets`
 3. a file `hoth.txt` inside `planets` with content
 
-      Hoth is a boring, icy world.
-	  Nobody would want to live there.
+        Hoth is a boring, icy world.
+	    Nobody would want to live there.
 	  
 	  
 
