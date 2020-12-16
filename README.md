@@ -71,4 +71,6 @@ The workflow for submitting homeworks in this class will be
    
 ## Try it!
 
-Let's do **hw00** together: follow the instructions above.
+Let's do **hw00** together: follow the instructions above and read
+[assignment_00.md](assignment_00.md).
+
