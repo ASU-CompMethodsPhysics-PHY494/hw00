@@ -22,5 +22,6 @@ def test_run():
     try:
         exec(SOLUTION.read_text())
     except Exception as exc:
-        raise AssertionError(f"Failed to run '{SOLUTION}'. The error was:\n\n{exc}\n\n")
+        raise AssertionError(
+            f"Failed to run '{SOLUTION}'. The error was:\n\n{exc}\n\n") from None
 
