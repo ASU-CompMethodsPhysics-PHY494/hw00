@@ -1,4 +1,6 @@
 # Homework 00
+![GitHub Classroom Workflow](../../workflows/GitHub%20Classroom%20Workflow/badge.svg?branch=main) ![Points badge](../../blob/badges/.github/badges/points.svg)
+
 
 This is an assignment that we do together in the class to learn how to
 submit homework throughout the class. See the [README](README.md) file
@@ -19,7 +21,7 @@ Create
 3. a file `hoth.txt` inside `planets` with content
 
         Hoth is a boring, icy world.
-	    Nobody would want to live there.
+        Nobody would want to live there.
 	  
 	  
 

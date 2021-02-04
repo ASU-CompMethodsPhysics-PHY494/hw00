@@ -1,4 +1,7 @@
 # "Homework" 0 -- Testing GitHub autograding
+![GitHub Classroom Workflow](../../workflows/GitHub%20Classroom%20Workflow/badge.svg?branch=main) ![Points badge](../../blob/badges/.github/badges/points.svg)
+
+
 
 In this class we will us many tools that are used in professional
 software development. In particular, we will make use of the
